@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c6f656ef-5534-4b59-bb06-734ce4238470"
+      }
+    },
+    "owner": "vuabaybune"
   }
 }
